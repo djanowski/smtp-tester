@@ -1,5 +1,7 @@
-smtp-tester
+smtp-tester 
 ===========
+
+![](https://travis-ci.org/deitch/smtp-tester.svg?branch=master)
 
 Overview
 --------
@@ -150,5 +152,13 @@ The following modules are currently available.
 
 More are expected to follow.
 
+
+Testing
+-------
+Just run
+
+    npm test
+
+Note that each build triggers a Travis CI build
 
 
